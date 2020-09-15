@@ -1,12 +1,12 @@
 def using_times
 	#your code here
-	jewels_in_bag = 100
-	3.times do
-	  puts "Hiding 10 stolen jewels."
-	  	jewels_in_bag = jewels_in_bag  10
+phrase = "Wingardium Leviosa"
+7.times do
+  counter = 1 
+  puts phrase
+  counter = +=1 
 end
-puts "We have #{jewels_in_bag} jewels still to hide!"
-end
+
 
 
 

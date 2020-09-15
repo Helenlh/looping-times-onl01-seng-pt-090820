@@ -6,6 +6,7 @@ def using_times
 	  	jewels_in_bag = jewels_in_bag  10
 end
 puts "We have #{jewels_in_bag} jewels still to hide!"
+end
 
 
 

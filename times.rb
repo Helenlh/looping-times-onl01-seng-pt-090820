@@ -1,6 +1,6 @@
 def using_times
 	#your code here
-phrase = "Wingardium Leviosa
+phrase = "Wingardium Leviosa"
 counter = 1 
 
 7.times do

@@ -1,10 +1,10 @@
 def using_times
 	#your code here
-phrase = "Wingardium Leviosa"
+phrase = "Wingardium Leviosa
+counter = 1 
+
 7.times do
-  if counter > 7
-    break
-  counter = 1 
+  
   puts phrase
   counter = +=1 
 end
